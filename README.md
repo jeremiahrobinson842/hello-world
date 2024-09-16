@@ -1,4 +1,6 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+# JeremiahRobinson842's github page
+This page is intended for use with CS-208 only.
+No other information will be displayed outside
+of the scope of the assignment.
 
-This is for the hello-world tutorial on github
+This page is hosted at jeremiahrobinson842.github.io
